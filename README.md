@@ -8,6 +8,8 @@ An autoencoder trained on the famous MNIST database of handwritten digits.
 3) Place it in the repository.
 
 To train the autoencoder, run mnist_autoencoder.py
+
 To train the convolutional neural network, run cnn.py
+
 To play around with an example, run example.py
 
